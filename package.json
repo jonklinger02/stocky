@@ -1,0 +1,26 @@
+{
+  "name": "stocky",
+  "version": "1.0.0",
+  "description": "a simple stock chart app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jklinger",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonklinger02/stocky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonklinger02/stocky/issues"
+  },
+  "homepage": "https://github.com/jonklinger02/stocky#readme"
+}
